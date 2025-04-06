@@ -51,6 +51,8 @@ An open-source, DIY sanitary pad vending machine with a simple yet reliable push
 
 ## 協力者募集
 本プロジェクトは技術者、デザイナー、教育関係者、医療従事者など多様な視点からの協力を歓迎しています。特に以下の分野での協力者を募集しています：
+製作者はCADを用いた設計経験はほとんどありません。Arduinoを使った電子工作やPCB設計などは可能です。
+
 - 3Dモデリングとプリント
 - 機構設計の最適化
 - 電子回路・制御システムの開発
