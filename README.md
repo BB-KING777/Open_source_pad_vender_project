@@ -60,6 +60,8 @@ An open-source, DIY sanitary pad vending machine with a simple yet reliable push
 現在ライセンスは定まっていません。完成次第検討します。おそらくMITもしくはApacheになると思います。
 
 ## 連絡先
-プロジェクトへの参加や質問は、Githubのイシューまたは以下の連絡先までお願いします：
-[連絡先情報](https://bb-king777.github.io/my-digital-space/contact.html)
+プロジェクトへの参加や質問は、Githubのイシューまたは以下のフォームまでお願いします：
+
+[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdEs7EeJ2nDsBF7ljLnw7aVn4wxgIErUHTcrhALWmGyiYXRdw/viewform?usp=header)
+
 
