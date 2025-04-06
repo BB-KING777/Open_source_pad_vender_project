@@ -8,11 +8,11 @@ An open-source, DIY sanitary pad vending machine with a simple yet reliable push
 
 > [!IMPORTANT]
 > 本プロジェクトは進行中であり、完成する確証はありません。また、製作者本人が3Dプリンタを所持していないため協力者および共同開発者を募集しています。
-> 興味を持たれた方は[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdEs7EeJ2nDsBF7ljLnw7aVn4wxgIErUHTcrhALWmGyiYXRdw/viewform?usp=header)までご連絡ください
+> 興味を持たれた方、ご質問は[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdEs7EeJ2nDsBF7ljLnw7aVn4wxgIErUHTcrhALWmGyiYXRdw/viewform?usp=header)までご連絡ください
 
 
 ### 進捗
-2025/04/06 リポジトリの公開および、筐体の作成　問題点:送り出し機構の設計
+2025/04/06 リポジトリの公開および、筐体の作成　問題点:送り出し機構の設計 使用検討:[タミヤラッチ&ピニオンギア](https://www.tamiya.com/japan/products/70235/index.html),[タミヤミニモーター薄型ギヤボックス](https://www.tamiya.com/japan/products/70245/index.html)
 
 ## 概要
 本プロジェクトは、誰でも製作・設置できる低コストな生理用ナプキン自動販売機の設計と製作方法を公開するオープンソースの取り組みです。シンプルかつ信頼性の高いプッシュプル式排出機構を採用し、タミヤの工作シリーズなど入手しやすい部品を使用することで、専門的な知識や特殊な工具がなくても製作可能です。このプロジェクトは多様なバックグラウンドを持つ人々の協力によって進められており、技術を通じた社会課題解決の一例として位置づけています。
