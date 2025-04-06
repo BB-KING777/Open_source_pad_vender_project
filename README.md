@@ -114,3 +114,15 @@ An open-source, DIY sanitary pad vending machine with a simple yet reliable push
 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdEs7EeJ2nDsBF7ljLnw7aVn4wxgIErUHTcrhALWmGyiYXRdw/viewform?usp=header)
 
 
+# 画像
+![画像1](https://github.com/BB-KING777/Open_source_pad_vender_project/blob/main/pictures/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-04-06%20185440.png?raw=true)
+
+![画像2](https://github.com/BB-KING777/Open_source_pad_vender_project/blob/main/pictures/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-04-06%20185521.png?raw=true)
+
+![画像4](https://github.com/BB-KING777/Open_source_pad_vender_project/blob/main/pictures/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-04-06%20185553.png?raw=true)
+
+![画像3](https://github.com/BB-KING777/Open_source_pad_vender_project/blob/main/pictures/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-04-06%20185622.png?raw=true)
+
+
+
+
